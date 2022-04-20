@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Karaka-Management/Metrics/master/metrics.plugin.languages.svg">
-</p>
-
 The Karaka software is a modular web application for small to mid sized companies that need CRM, ERP, Intranet and/or CMS functionalities and much more.
 
 | :orange_book: Developer Info | :green_book: User Info | :blue_book: Project Info | :books: References |
