@@ -1,4 +1,4 @@
-The Karaka software is a modular web application for small to mid sized companies that need CRM, ERP, Intranet and/or CMS functionalities and much more.
+The Karaka software is a collection of standalone business solutions and a modular web application for small to mid sized companies that need CRM, ERP, Intranet and/or CMS functionalities and much more.
 
 | :orange_book: Developer Info | :green_book: User Info | :blue_book: Project Info | :books: References | :question: Code quality |
 | ---------------------------- | ---------------------- | ------------------------ | ------------------ | ----------------------- |
