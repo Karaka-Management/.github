@@ -19,5 +19,11 @@ The Karaka software is a collection of standalone business solutions and a modul
 | Framework | css       | cssOMS     | ![example workflow](https://github.com/Karaka-Management/cssOMS/actions/workflows/main.yml/badge.svg) |
 | Tool      | php       | TestReportGenerator | ![example workflow](https://github.com/Karaka-Management/TestReportGenerator/actions/workflows/main.yml/badge.svg) |
 | Tool      | c/c++     | OCRImageOptimizer | ![example workflow](https://github.com/Karaka-Management/OCRImageOptimizer/actions/workflows/main.yml/badge.svg) |
+| Tool      | c#        | DocumentComparisonApp | ![example workflow](https://github.com/Karaka-Management/DocumentComparisonApp/actions/workflows/main.yml/badge.svg) |
+| Tool      | c#        | CombinatoricsSolverApp | ![example workflow](https://github.com/Karaka-Management/CombinatoricsSolverApp/actions/workflows/main.yml/badge.svg) |
+| Tool      | c#        | WordLinkValidatorApp | ![example workflow](https://github.com/Karaka-Management/WordLinkValidatorApp/actions/workflows/main.yml/badge.svg) |
+| Documentation | markdown   | Developer-Guide | ![example workflow](https://github.com/Karaka-Management/Developer-Guide/actions/workflows/main.yml/badge.svg) |
+| Documentation | markdown   | User-Guide | ![example workflow](https://github.com/Karaka-Management/User-Guide/actions/workflows/main.yml/badge.svg) |
+| Documentation | markdown   | Organization-Guide | ![example workflow](https://github.com/Karaka-Management/Organization-Guide/actions/workflows/main.yml/badge.svg) |
 
 </div>
