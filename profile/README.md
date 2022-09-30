@@ -13,17 +13,17 @@ The Karaka software is a collection of standalone business solutions and a modul
 
 | Type      | Main lang | Repository | Checks |
 | :-------- | :-------- | :--------- | :----- |
-| Framework | php       | phpOMS     | ![example workflow](https://github.com/Karaka-Management/phpOMS/actions/workflows/main.yml/badge.svg) |
-| Framework | js        | jsOMS      | ![example workflow](https://github.com/Karaka-Management/jsOMS/actions/workflows/main.yml/badge.svg) |
-| Framework | c/c++     | cOMS       | ![example workflow](https://github.com/Karaka-Management/cOMS/actions/workflows/main.yml/badge.svg) |
-| Framework | css       | cssOMS     | ![example workflow](https://github.com/Karaka-Management/cssOMS/actions/workflows/main.yml/badge.svg) |
-| Tool      | php       | TestReportGenerator | ![example workflow](https://github.com/Karaka-Management/TestReportGenerator/actions/workflows/main.yml/badge.svg) |
-| Tool      | c/c++     | OCRImageOptimizer | ![example workflow](https://github.com/Karaka-Management/OCRImageOptimizer/actions/workflows/main.yml/badge.svg) |
-| Tool      | c#        | DocumentComparisonApp | ![example workflow](https://github.com/Karaka-Management/DocumentComparisonApp/actions/workflows/main.yml/badge.svg) |
-| Tool      | c#        | CombinatoricsSolverApp | ![example workflow](https://github.com/Karaka-Management/CombinatoricsSolverApp/actions/workflows/main.yml/badge.svg) |
-| Tool      | c#        | WordLinkValidatorApp | ![example workflow](https://github.com/Karaka-Management/WordLinkValidatorApp/actions/workflows/main.yml/badge.svg) |
-| Documentation | markdown   | Developer-Guide | ![example workflow](https://github.com/Karaka-Management/Developer-Guide/actions/workflows/main.yml/badge.svg) |
-| Documentation | markdown   | User-Guide | ![example workflow](https://github.com/Karaka-Management/User-Guide/actions/workflows/main.yml/badge.svg) |
-| Documentation | markdown   | Organization-Guide | ![example workflow](https://github.com/Karaka-Management/Organization-Guide/actions/workflows/main.yml/badge.svg) |
+| Framework | php       | [phpOMS](https://github.com/Karaka-Management/phpOMS)     | ![example workflow](https://github.com/Karaka-Management/phpOMS/actions/workflows/main.yml/badge.svg) |
+| Framework | js        | [jsOMS](https://github.com/Karaka-Management/jsOMS)      | ![example workflow](https://github.com/Karaka-Management/jsOMS/actions/workflows/main.yml/badge.svg) |
+| Framework | c/c++     | [cOMS](https://github.com/Karaka-Management/cOMS)       | ![example workflow](https://github.com/Karaka-Management/cOMS/actions/workflows/main.yml/badge.svg) |
+| Framework | css       | [cssOMS](https://github.com/Karaka-Management/cssOMS)     | ![example workflow](https://github.com/Karaka-Management/cssOMS/actions/workflows/main.yml/badge.svg) |
+| Tool      | php       | [TestReportGenerator](https://github.com/Karaka-Management/TestReportGenerator) | ![example workflow](https://github.com/Karaka-Management/TestReportGenerator/actions/workflows/main.yml/badge.svg) |
+| Tool      | c/c++     | [OCRImageOptimizerApp](https://github.com/Karaka-Management/OCRImageOptimizerApp) | ![example workflow](https://github.com/Karaka-Management/OCRImageOptimizerApp/actions/workflows/main.yml/badge.svg) |
+| Tool      | c#        | [DocumentComparisonApp](https://github.com/Karaka-Management/DocumentComparisonApp) | ![example workflow](https://github.com/Karaka-Management/DocumentComparisonApp/actions/workflows/main.yml/badge.svg) |
+| Tool      | c#        | [CombinatoricsSolverApp](https://github.com/Karaka-Management/CombinatoricsSolverApp) | ![example workflow](https://github.com/Karaka-Management/CombinatoricsSolverApp/actions/workflows/main.yml/badge.svg) |
+| Tool      | c#        | [WordLinkValidatorApp](https://github.com/Karaka-Management/WordLinkValidatorApp) | ![example workflow](https://github.com/Karaka-Management/WordLinkValidatorApp/actions/workflows/main.yml/badge.svg) |
+| Documentation | markdown   | [Developer-Guide](https://github.com/Karaka-Management/Developer-Guide) | ![example workflow](https://github.com/Karaka-Management/Developer-Guide/actions/workflows/main.yml/badge.svg) |
+| Documentation | markdown   | [User-Guide](https://github.com/Karaka-Management/User-Guide) | ![example workflow](https://github.com/Karaka-Management/User-Guide/actions/workflows/main.yml/badge.svg) |
+| Documentation | markdown   | [Organization-Guide](https://github.com/Karaka-Management/Organization-Guide) | ![example workflow](https://github.com/Karaka-Management/Organization-Guide/actions/workflows/main.yml/badge.svg) |
 
 </div>
