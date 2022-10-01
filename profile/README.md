@@ -9,6 +9,9 @@ The Karaka software is a collection of standalone business solutions and a modul
 | [Developer Guide](https://github.com/Karaka-Management/Developer-Guide) | | | [Main Repository](https://github.com/Karaka-Management/Karaka) | [Style](https://github.com/Karaka-Management/Organization-Guide/blob/master/Processes/01_Development.md#code-style) |
 
 </div>
+
+## Checks
+
 <div align="center">
 
 | Type      | Main lang | Repository | Checks |
