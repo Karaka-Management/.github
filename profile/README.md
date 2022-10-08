@@ -20,13 +20,14 @@ The Karaka software is a collection of standalone business solutions and a modul
 | Framework | js        | [jsOMS](https://github.com/Karaka-Management/jsOMS)      | ![example workflow](https://github.com/Karaka-Management/jsOMS/actions/workflows/main.yml/badge.svg) |
 | Framework | c/c++     | [cOMS](https://github.com/Karaka-Management/cOMS)       | ![example workflow](https://github.com/Karaka-Management/cOMS/actions/workflows/main.yml/badge.svg) |
 | Framework | css       | [cssOMS](https://github.com/Karaka-Management/cssOMS)     | ![example workflow](https://github.com/Karaka-Management/cssOMS/actions/workflows/main.yml/badge.svg) |
-| Tool      | php       | [TestReportGenerator](https://github.com/Karaka-Management/TestReportGenerator) | ![example workflow](https://github.com/Karaka-Management/TestReportGenerator/actions/workflows/main.yml/badge.svg) |
-| Tool      | c/c++     | [OCRImageOptimizerApp](https://github.com/Karaka-Management/OCRImageOptimizerApp) | ![example workflow](https://github.com/Karaka-Management/OCRImageOptimizerApp/actions/workflows/main.yml/badge.svg) |
-| Tool      | c#        | [DocumentComparisonApp](https://github.com/Karaka-Management/DocumentComparisonApp) | ![example workflow](https://github.com/Karaka-Management/DocumentComparisonApp/actions/workflows/main.yml/badge.svg) |
-| Tool      | c#        | [CombinatoricsSolverApp](https://github.com/Karaka-Management/CombinatoricsSolverApp) | ![example workflow](https://github.com/Karaka-Management/CombinatoricsSolverApp/actions/workflows/main.yml/badge.svg) |
-| Tool      | c#        | [WordLinkValidatorApp](https://github.com/Karaka-Management/WordLinkValidatorApp) | ![example workflow](https://github.com/Karaka-Management/WordLinkValidatorApp/actions/workflows/main.yml/badge.svg) |
+| App      | php       | [TestReportGenerator](https://github.com/Karaka-Management/TestReportGenerator) | ![example workflow](https://github.com/Karaka-Management/TestReportGenerator/actions/workflows/main.yml/badge.svg) |
+| App      | c/c++     | [OCRImageOptimizerApp](https://github.com/Karaka-Management/OCRImageOptimizerApp) | ![example workflow](https://github.com/Karaka-Management/OCRImageOptimizerApp/actions/workflows/main.yml/badge.svg) |
+| App      | c#        | [DocumentComparisonApp](https://github.com/Karaka-Management/DocumentComparisonApp) | ![example workflow](https://github.com/Karaka-Management/DocumentComparisonApp/actions/workflows/main.yml/badge.svg) |
+| App      | c#        | [CombinatoricsSolverApp](https://github.com/Karaka-Management/CombinatoricsSolverApp) | ![example workflow](https://github.com/Karaka-Management/CombinatoricsSolverApp/actions/workflows/main.yml/badge.svg) |
+| App      | c#        | [WordLinkValidatorApp](https://github.com/Karaka-Management/WordLinkValidatorApp) | ![example workflow](https://github.com/Karaka-Management/WordLinkValidatorApp/actions/workflows/main.yml/badge.svg) |
 | Documentation | markdown   | [Developer-Guide](https://github.com/Karaka-Management/Developer-Guide) | ![example workflow](https://github.com/Karaka-Management/Developer-Guide/actions/workflows/main.yml/badge.svg) |
 | Documentation | markdown   | [User-Guide](https://github.com/Karaka-Management/User-Guide) | ![example workflow](https://github.com/Karaka-Management/User-Guide/actions/workflows/main.yml/badge.svg) |
 | Documentation | markdown   | [Organization-Guide](https://github.com/Karaka-Management/Organization-Guide) | ![example workflow](https://github.com/Karaka-Management/Organization-Guide/actions/workflows/main.yml/badge.svg) |
+| WebApp | php/js/css     | [Karaka](https://github.com/Karaka-Management/Karaka)     | ![example workflow](https://github.com/Karaka-Management/Karaka/actions/workflows/main.yml/badge.svg) |
 
 </div>
