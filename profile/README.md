@@ -10,7 +10,7 @@ The Karaka software is a collection of standalone business solutions and a modul
 
 </div>
 
-## Checks
+## Status
 
 <div align="center">
 
