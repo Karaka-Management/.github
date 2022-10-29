@@ -30,7 +30,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.lines.history.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
           base: ""
           plugin_lines: yes
           plugin_lines_sections: repositories, history
