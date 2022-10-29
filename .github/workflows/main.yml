@@ -1,0 +1,38 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: Karaka-Management
+          token: ${{ secrets.GH_PAT }}
+      - name: Most used languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.svg
+          user: Karaka-Management
+          token: ${{ secrets.GH_PAT }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, css
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_limit: 8
+      - name: Most used languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.lines.history.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 3
+          plugin_lines_history_limit: 1
