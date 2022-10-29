@@ -18,11 +18,12 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, css
-          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 8
-      - name: Most used languages
+      - name: Line changes
         uses: lowlighter/metrics@latest
         with:
+          user: Karaka-Management
           filename: metrics.plugin.lines.history.svg
           token: ${{ secrets.GH_PAT }}
           base: ""
