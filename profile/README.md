@@ -32,3 +32,9 @@ The Karaka software is a collection of standalone business solutions and a modul
 | WebApp | php/js     | [Karaka](https://github.com/Karaka-Management/Karaka)     | ![ci workflow](https://github.com/Karaka-Management/Karaka/actions/workflows/main.yml/badge.svg) | |
 
 </div>
+
+## Metrics
+
+<div align="center">
+<img alt="Language metrics" src="https://raw.githubusercontent.com/Karaka-Management/.github/master/metrics.plugin.languages.svg">
+</div>
