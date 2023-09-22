@@ -10,7 +10,7 @@ The Karaka software is a collection of standalone business solutions and a modul
 
 </div>
 
-## Status
+## Status main
 
 <div align="center">
 
@@ -21,14 +21,21 @@ The Karaka software is a collection of standalone business solutions and a modul
 | Framework | c/c++     | [cOMS](https://github.com/Karaka-Management/cOMS)       | ![ci workflow](https://github.com/Karaka-Management/cOMS/actions/workflows/main.yml/badge.svg) | |
 | Framework | css       | [cssOMS](https://github.com/Karaka-Management/cssOMS)     | ![ci workflow](https://github.com/Karaka-Management/cssOMS/actions/workflows/main.yml/badge.svg) | |
 | App      | php       | [TestReportGenerator](https://github.com/Karaka-Management/TestReportGenerator) | ![ci workflow](https://github.com/Karaka-Management/TestReportGenerator/actions/workflows/main.yml/badge.svg) | ![cd workflow](https://github.com/Karaka-Management/TestReportGenerator/actions/workflows/cd.yml/badge.svg) |
-| App      | c/c++     | [OCRImageOptimizerApp](https://github.com/Karaka-Management/OCRImageOptimizerApp) | ![ci workflow](https://github.com/Karaka-Management/OCRImageOptimizerApp/actions/workflows/main.yml/badge.svg) | ![cd workflow](https://github.com/Karaka-Management/OCRImageOptimizerApp/actions/workflows/cd.yml/badge.svg) |
-| App      | c#        | [DocumentComparisonApp](https://github.com/Karaka-Management/DocumentComparisonApp) | ![ci workflow](https://github.com/Karaka-Management/DocumentComparisonApp/actions/workflows/main.yml/badge.svg) | ![cd workflow](https://github.com/Karaka-Management/DocumentComparisonApp/actions/workflows/cd.yml/badge.svg) |
-| App      | c#        | [CombinatoricsSolverApp](https://github.com/Karaka-Management/CombinatoricsSolverApp) | ![ci workflow](https://github.com/Karaka-Management/CombinatoricsSolverApp/actions/workflows/main.yml/badge.svg) | ![cd workflow](https://github.com/Karaka-Management/CombinatoricsSolverApp/actions/workflows/cd.yml/badge.svg) |
-| App      | c#        | [WordLinkValidatorApp](https://github.com/Karaka-Management/WordLinkValidatorApp) | ![ci workflow](https://github.com/Karaka-Management/WordLinkValidatorApp/actions/workflows/main.yml/badge.svg) | ![cd workflow](https://github.com/Karaka-Management/WordLinkValidatorApp/actions/workflows/cd.yml/badge.svg) |
 | Documentation | markdown   | [Developer-Guide](https://github.com/Karaka-Management/Developer-Guide) | ![ci workflow](https://github.com/Karaka-Management/Developer-Guide/actions/workflows/main.yml/badge.svg) | |
 | Documentation | markdown   | [User-Guide](https://github.com/Karaka-Management/User-Guide) | ![ci workflow](https://github.com/Karaka-Management/User-Guide/actions/workflows/main.yml/badge.svg) | |
 | Documentation | markdown   | [Organization-Guide](https://github.com/Karaka-Management/Organization-Guide) | ![ci workflow](https://github.com/Karaka-Management/Organization-Guide/actions/workflows/main.yml/badge.svg) | |
 | WebApp | php/js     | [Karaka](https://github.com/Karaka-Management/Karaka)     | ![ci workflow](https://github.com/Karaka-Management/Karaka/actions/workflows/main.yml/badge.svg) | |
+
+## Status secondary
+
+<div align="center">
+
+| Type      | Main lang | Repository | Checks | Build  |
+| :-------- | :-------- | :--------- | :----- | :----- |
+| App      | c/c++     | [OCRImageOptimizerApp](https://github.com/Karaka-Management/OCRImageOptimizerApp) | ![ci workflow](https://github.com/Karaka-Management/OCRImageOptimizerApp/actions/workflows/main.yml/badge.svg) | ![cd workflow](https://github.com/Karaka-Management/OCRImageOptimizerApp/actions/workflows/cd.yml/badge.svg) |
+| App      | c#        | [DocumentComparisonApp](https://github.com/Karaka-Management/DocumentComparisonApp) | ![ci workflow](https://github.com/Karaka-Management/DocumentComparisonApp/actions/workflows/main.yml/badge.svg) | ![cd workflow](https://github.com/Karaka-Management/DocumentComparisonApp/actions/workflows/cd.yml/badge.svg) |
+| App      | c#        | [CombinatoricsSolverApp](https://github.com/Karaka-Management/CombinatoricsSolverApp) | ![ci workflow](https://github.com/Karaka-Management/CombinatoricsSolverApp/actions/workflows/main.yml/badge.svg) | ![cd workflow](https://github.com/Karaka-Management/CombinatoricsSolverApp/actions/workflows/cd.yml/badge.svg) |
+| App      | c#        | [WordLinkValidatorApp](https://github.com/Karaka-Management/WordLinkValidatorApp) | ![ci workflow](https://github.com/Karaka-Management/WordLinkValidatorApp/actions/workflows/main.yml/badge.svg) | ![cd workflow](https://github.com/Karaka-Management/WordLinkValidatorApp/actions/workflows/cd.yml/badge.svg) |
 
 </div>
 
