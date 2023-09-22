@@ -10,7 +10,7 @@ The Karaka software is a collection of standalone business solutions and a modul
 
 </div>
 
-## Status main
+## Main
 
 <div align="center">
 
@@ -28,7 +28,7 @@ The Karaka software is a collection of standalone business solutions and a modul
 
 </div>
 
-## Status secondary
+## Secondary
 
 <div align="center">
 
