@@ -26,6 +26,8 @@ The Karaka software is a collection of standalone business solutions and a modul
 | Documentation | markdown   | [Organization-Guide](https://github.com/Karaka-Management/Organization-Guide) | ![ci workflow](https://github.com/Karaka-Management/Organization-Guide/actions/workflows/main.yml/badge.svg) | |
 | WebApp | php/js     | [Karaka](https://github.com/Karaka-Management/Karaka)     | ![ci workflow](https://github.com/Karaka-Management/Karaka/actions/workflows/main.yml/badge.svg) | |
 
+</div>
+
 ## Status secondary
 
 <div align="center">
