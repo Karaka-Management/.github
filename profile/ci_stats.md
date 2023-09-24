@@ -7,6 +7,10 @@
 | Framework | [cOMS](https://github.com/Karaka-Management/cOMS) | ![ci workflow](https://github.com/Karaka-Management/cOMS/actions/workflows/main.yml/badge.svg) |
 | DevOps | [Build](https://github.com/Karaka-Management/Build) | ![ci workflow](https://github.com/Karaka-Management/Build/actions/workflows/main.yml/badge.svg) |
 | DevOps | [Build](https://github.com/Karaka-Management/TestReportGenerator) | ![ci workflow](https://github.com/Karaka-Management/TestReportGenerator/actions/workflows/main.yml/badge.svg) |
+| App      | [OCRImageOptimizerApp](https://github.com/Karaka-Management/OCRImageOptimizerApp) | ![ci workflow](https://github.com/Karaka-Management/OCRImageOptimizerApp/actions/workflows/main.yml/badge.svg) |
+| App      | [DocumentComparisonApp](https://github.com/Karaka-Management/DocumentComparisonApp) | ![ci workflow](https://github.com/Karaka-Management/DocumentComparisonApp/actions/workflows/main.yml/badge.svg) |
+| App      | [CombinatoricsSolverApp](https://github.com/Karaka-Management/CombinatoricsSolverApp) | ![ci workflow](https://github.com/Karaka-Management/CombinatoricsSolverApp/actions/workflows/main.yml/badge.svg) |
+| App      | [WordLinkValidatorApp](https://github.com/Karaka-Management/WordLinkValidatorApp) | ![ci workflow](https://github.com/Karaka-Management/WordLinkValidatorApp/actions/workflows/main.yml/badge.svg) |
 | Module | [Accounting](https://github.com/Karaka-Management/Accounting) | ![ci workflow](https://github.com/Karaka-Management/Accounting/actions/workflows/main.yml/badge.svg) |
 | Module | [Admin](https://github.com/Karaka-Management/Admin) | ![ci workflow](https://github.com/Karaka-Management/Admin/actions/workflows/main.yml/badge.svg) |
 | Module | [AssetManagement](https://github.com/Karaka-Management/AssetManagement) | ![ci workflow](https://github.com/Karaka-Management/AssetManagement/actions/workflows/main.yml/badge.svg) |
