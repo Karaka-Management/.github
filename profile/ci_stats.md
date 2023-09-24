@@ -1,11 +1,20 @@
 | Type | Repository | Checks |
 | ---- | ---------- | ------ |
 | App | [Karaka](https://github.com/Karaka-Management/Karaka) | ![ci workflow](https://github.com/Karaka-Management/Karaka/actions/workflows/main.yml/badge.svg) |
+
+| Type | Repository | Checks |
+| ---- | ---------- | ------ |
 | Framework | [phpOMS](https://github.com/Karaka-Management/phpOMS) | ![ci workflow](https://github.com/Karaka-Management/phpOMS/actions/workflows/main.yml/badge.svg) |
 | Framework | [jsOMS](https://github.com/Karaka-Management/jsOMS) | ![ci workflow](https://github.com/Karaka-Management/jsOMS/actions/workflows/main.yml/badge.svg) |
 | Framework | [cssOMS](https://github.com/Karaka-Management/cssOMS) | ![ci workflow](https://github.com/Karaka-Management/cssOMS/actions/workflows/main.yml/badge.svg) |
 | Framework | [cOMS](https://github.com/Karaka-Management/cOMS) | ![ci workflow](https://github.com/Karaka-Management/cOMS/actions/workflows/main.yml/badge.svg) |
+
+| Type | Repository | Checks |
+| ---- | ---------- | ------ |
 | DevOps | [Build](https://github.com/Karaka-Management/Build) | ![ci workflow](https://github.com/Karaka-Management/Build/actions/workflows/main.yml/badge.svg) |
+
+| Type | Repository | Checks |
+| ---- | ---------- | ------ |
 | Module | [Accounting](https://github.com/Karaka-Management/Accounting) | ![ci workflow](https://github.com/Karaka-Management/Accounting/actions/workflows/main.yml/badge.svg) |
 | Module | [Admin](https://github.com/Karaka-Management/Admin) | ![ci workflow](https://github.com/Karaka-Management/Admin/actions/workflows/main.yml/badge.svg) |
 | Module | [AssetManagement](https://github.com/Karaka-Management/AssetManagement) | ![ci workflow](https://github.com/Karaka-Management/AssetManagement/actions/workflows/main.yml/badge.svg) |
