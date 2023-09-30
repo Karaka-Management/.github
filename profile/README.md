@@ -28,7 +28,7 @@ The Karaka software is a collection of standalone business solutions and a modul
 
 </div>
 
-## Secondary
+## Side
 
 <div align="center">
 
