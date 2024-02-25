@@ -43,3 +43,11 @@ body:
         Add any other context about the problem here.
     validations:
       required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms
+      description: By submitting this issue, you agree to follow our [CoC](https://jingga.app/en/coc), [Terms](https://jingga.app/en/terms) and [CLA](https://jingga.app/en/cla)
+      options:
+        - label: I agree to follow this project's Code of Conduct (CoC), Terms and Contributor License Agreement (CLA)
+          required: true
