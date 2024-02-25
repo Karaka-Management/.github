@@ -8,7 +8,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        **Thanks :heart: for taking the time to fill out this bug report!**
+        We kindly ask that you search to see if an issue [already exists](https://github.com/orgs/Karaka-Management/projects/10) for your bug report.
   - type: input
     id: contact
     attributes:
