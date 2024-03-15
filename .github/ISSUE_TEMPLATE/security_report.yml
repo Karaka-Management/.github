@@ -1,0 +1,13 @@
+name: 🚨 Security Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug"]
+assignees:
+  - spl1nes
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thanks :heart: for taking the time to report a security issue!**
+        Reporting a security issue publicly can cause a lot of harm, for this reason we kindly ask you to avoid public communication regarding possible issues.
+        We kindly ask you to send an email with your security issue to info@jingga.app.
