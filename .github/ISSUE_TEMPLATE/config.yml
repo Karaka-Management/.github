@@ -3,5 +3,5 @@ contact_links:
     url: https://discord.com/users/559332194435334144
     about: Support request or question relating to Jingga
   - name: 🚨 Security Report
-    url: https://info@jingga.app
+    url: 'mailto:info@jingga.app'
     about: Reporting a security issue publicly can cause a lot of harm, for this reason we kindly ask you to avoid public communication regarding possible issues. We kindly ask you to send an email with your security issue to info@jingga.app.
