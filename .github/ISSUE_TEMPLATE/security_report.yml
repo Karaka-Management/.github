@@ -1,7 +1,7 @@
 name: 🚨 Security Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug"]
+description: File a security report
+title: "[Security]: "
+labels: ["security"]
 assignees:
   - spl1nes
 body:
